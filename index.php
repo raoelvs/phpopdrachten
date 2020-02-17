@@ -7,7 +7,7 @@
  */
 ?>
 <html>
-<link href="../CSS/Style.css">
+<link href="CSS/Style.css">
 <body>
 <header>
     <h1><?php echo "Uitwerking van PHP-opdrachten"; ?></h1>
@@ -21,10 +21,10 @@
         <li>Hoofdstuk 2
             <ul>
                 <li>
-                    <a href="opdracht2.1.php">Opdracht 2.1</a>
+                    <a href="Hoofdstuk 2/opdracht2.1.php">Opdracht 2.1</a>
                 </li>
                 <li>
-                    <a href="opdracht2.2.php">Opdracht 2.2</a>
+                    <a href="Hoofdstuk 2/opdracht2.2.php">Opdracht 2.2</a>
                 </li>
             </ul>
         </li>

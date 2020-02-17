@@ -5,7 +5,7 @@
     <h1><?php echo "Uitwerking van PHP-opdrachten"; ?></h1>
 </header>
 
-<a href="index.php">home</a>
+<a href="../index.php">home</a>
 <p><?php echo "Hallo wereld"; ?></p>
 <aside>
     <h2>Menu</h2>
