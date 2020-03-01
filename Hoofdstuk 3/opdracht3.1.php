@@ -6,7 +6,7 @@
  * File: opdracht 3.1.php
  */
 ?>
-<link href= "index.php">
+<a href="../Hoofdstuk%202/index.php">home</a>
 <?php
 //initialisatie van variabelen
 $evenement = "elfstedentocht";
